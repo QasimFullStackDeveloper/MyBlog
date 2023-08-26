@@ -1,0 +1,79 @@
+.full-bg-color
+{
+    background-color: white;
+    border-radius: 15px;
+}
+
+.bg1-color
+{
+    margin-top: 30px;
+    margin-left: 120px;
+    margin-bottom: 0px;
+    margin-right: 120px;
+    background-color: #296ddb;
+}
+
+.bg2-color
+{
+    padding: 4% 1%;
+}
+
+.bg3
+{
+    margin: 70px 60px;
+}
+
+.my-blog
+{
+    display: inline;
+    margin: 0% 65% 0% 3%;
+}
+
+.title-1
+{
+    color: purple;
+}
+
+.author
+{
+    margin-top: -20px;
+}
+
+.para-font-size
+{
+    font-size: large;
+    margin-bottom: 20px;
+}
+
+.main-bg
+{ 
+    max-width: fit-content;
+}
+
+.useful-links-main
+{
+    background-color: #f9ca24;
+    margin-left: 110%;
+    font-size: medium;
+    width: 230px;
+    height: 160px;
+    padding : 1px;
+}
+#useful-heading
+{
+    background-color: red;
+    color: white;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 4% 2%;
+}
+
+#image
+{
+    width: 1222px;
+}
+
+a
+{
+    color: black;
+}
